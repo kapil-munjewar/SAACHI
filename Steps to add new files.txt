@@ -1,0 +1,13 @@
+    4  cd D:/KAPIL/SAACHI
+
+    9  git init
+   10  git add .
+   11  git commit -m "first commit"
+   12  git branch -M main
+   13  git remote add origin https://github.com/kapil-munjewar/SAACHI.git
+   14  git push -u origin main
+
+   43  git status
+   44  git add .
+   45  git commit -m "Add new files"
+   46  git push -u origin main
